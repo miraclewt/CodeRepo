@@ -10,3 +10,5 @@
 
 关注bilibili账号：【立创开发板】，掌握我们的最新动态！
 
+- Vscode WSL 配置环境
+- https://blog.csdn.net/qq_51769114/article/details/145268655
