@@ -12,3 +12,4 @@
 
 - Vscode WSL 配置环境
 - https://blog.csdn.net/qq_51769114/article/details/145268655
+- https://lrl52.top/950/linux-build-embedded-env/
